@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mangablog</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 Aug 2023 20:41:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>On Suicide</title>
+		<link>/on-suicide/</link>
+					<comments>/on-suicide/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2023 21:50:45 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">/?p=2018</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2018" class="elementor elementor-2018">
+							<div class="elementor-element elementor-element-8a59da0 e-flex e-con-boxed e-con" data-id="8a59da0" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-41b24c3 elementor-widget elementor-widget-image" data-id="41b24c3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 02-08-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" fetchpriority="high" width="1290" height="1607" src="/wp-content/uploads/2023/08/11-5-scaled.jpg" class="attachment-large size-large wp-image-2021" alt="" srcset="/wp-content/uploads/2023/08/11-5-scaled.jpg 2055w, /wp-content/uploads/2023/08/11-5-1587x1977.jpg 1587w, /wp-content/uploads/2023/08/11-5-768x957.jpg 768w, /wp-content/uploads/2023/08/11-5-1233x1536.jpg 1233w, /wp-content/uploads/2023/08/11-5-1644x2048.jpg 1644w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-91b6360 elementor-widget elementor-widget-image" data-id="91b6360" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="600" height="800" src="/wp-content/uploads/2023/08/Juxtapoz-Magazine-The-Camera-is-God-by-Trent-Parke.jpg" class="attachment-large size-large wp-image-2125" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2f63ac3 elementor-widget elementor-widget-image" data-id="2f63ac3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1290" height="1079" src="/wp-content/uploads/2023/08/2.1-scaled.jpg" class="attachment-large size-large wp-image-2022" alt="" srcset="/wp-content/uploads/2023/08/2.1-scaled.jpg 2560w, /wp-content/uploads/2023/08/2.1-1587x1328.jpg 1587w, /wp-content/uploads/2023/08/2.1-768x643.jpg 768w, /wp-content/uploads/2023/08/2.1-1536x1285.jpg 1536w, /wp-content/uploads/2023/08/2.1-2048x1714.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-93dc7ae elementor-widget elementor-widget-image" data-id="93dc7ae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="500" height="500" src="/wp-content/uploads/2023/08/30000fps-1.gif" class="attachment-large size-large wp-image-2127" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2d62616 elementor-widget elementor-widget-image" data-id="2d62616" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="984" src="/wp-content/uploads/2023/08/2.2-scaled.jpg" class="attachment-large size-large wp-image-2023" alt="" srcset="/wp-content/uploads/2023/08/2.2-scaled.jpg 2560w, /wp-content/uploads/2023/08/2.2-1587x1211.jpg 1587w, /wp-content/uploads/2023/08/2.2-768x586.jpg 768w, /wp-content/uploads/2023/08/2.2-1536x1172.jpg 1536w, /wp-content/uploads/2023/08/2.2-2048x1562.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7a8bd13 elementor-widget elementor-widget-image" data-id="7a8bd13" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="600" height="800" src="/wp-content/uploads/2023/08/Juxtapoz-Magazine-The-Camera-is-God-by-Trent-Parke-1.jpg" class="attachment-large size-large wp-image-2128" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e818813 elementor-widget elementor-widget-image" data-id="e818813" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1897" src="/wp-content/uploads/2023/08/33-7-scaled.jpg" class="attachment-large size-large wp-image-2024" alt="" srcset="/wp-content/uploads/2023/08/33-7-scaled.jpg 1741w, /wp-content/uploads/2023/08/33-7-1587x2333.jpg 1587w, /wp-content/uploads/2023/08/33-7-768x1129.jpg 768w, /wp-content/uploads/2023/08/33-7-1045x1536.jpg 1045w, /wp-content/uploads/2023/08/33-7-1393x2048.jpg 1393w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-890abac elementor-widget elementor-widget-image" data-id="890abac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="613" src="/wp-content/uploads/2023/08/N-LITE-1.gif" class="attachment-large size-large wp-image-2129" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b565797 elementor-widget elementor-widget-image" data-id="b565797" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1145" src="/wp-content/uploads/2023/08/44-6-scaled.jpg" class="attachment-large size-large wp-image-2025" alt="" srcset="/wp-content/uploads/2023/08/44-6-scaled.jpg 2560w, /wp-content/uploads/2023/08/44-6-1587x1409.jpg 1587w, /wp-content/uploads/2023/08/44-6-768x682.jpg 768w, /wp-content/uploads/2023/08/44-6-1536x1364.jpg 1536w, /wp-content/uploads/2023/08/44-6-2048x1818.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-42db50d elementor-widget elementor-widget-image" data-id="42db50d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="445" src="/wp-content/uploads/2023/08/TraceLoops_-Photo-1.gif" class="attachment-large size-large wp-image-2130" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-41fea0b elementor-widget elementor-widget-image" data-id="41fea0b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1055" src="/wp-content/uploads/2023/08/55-5-scaled.jpg" class="attachment-large size-large wp-image-2026" alt="" srcset="/wp-content/uploads/2023/08/55-5-scaled.jpg 2560w, /wp-content/uploads/2023/08/55-5-1587x1298.jpg 1587w, /wp-content/uploads/2023/08/55-5-768x628.jpg 768w, /wp-content/uploads/2023/08/55-5-1536x1256.jpg 1536w, /wp-content/uploads/2023/08/55-5-2048x1675.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="2018" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="2018" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/on-suicide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Unraveling the Depths of Fight Club: Deciphering its Profound Meanings</title>
+		<link>/unraveling-the-depths-of-fight-club-deciphering-its-profound-meanings/</link>
+					<comments>/unraveling-the-depths-of-fight-club-deciphering-its-profound-meanings/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 17:39:00 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/?p=1818</guid>
+
+					<description><![CDATA[/wp-content/uploads/2023/08/Snaptik.app_7257525741535939841.mp4]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1818" class="elementor elementor-1818">
+							<div class="elementor-element elementor-element-0bec988 e-flex e-con-boxed e-con" data-id="0bec988" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-dd8d334 elementor-widget elementor-widget-image" data-id="dd8d334" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1408" src="/wp-content/uploads/2023/08/11-2-scaled.jpg" class="attachment-large size-large wp-image-1820" alt="" srcset="/wp-content/uploads/2023/08/11-2-scaled.jpg 2346w, /wp-content/uploads/2023/08/11-2-1587x1731.jpg 1587w, /wp-content/uploads/2023/08/11-2-768x838.jpg 768w, /wp-content/uploads/2023/08/11-2-1408x1536.jpg 1408w, /wp-content/uploads/2023/08/11-2-1877x2048.jpg 1877w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ebaaea0 elementor-widget elementor-widget-image" data-id="ebaaea0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="500" height="206" src="/wp-content/uploads/2023/08/Fight-Club-What-If-1.gif" class="attachment-large size-large wp-image-2114" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-840abbc elementor-widget elementor-widget-image" data-id="840abbc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1065" src="/wp-content/uploads/2023/08/22-2-scaled.jpg" class="attachment-large size-large wp-image-1821" alt="" srcset="/wp-content/uploads/2023/08/22-2-scaled.jpg 2560w, /wp-content/uploads/2023/08/22-2-1587x1310.jpg 1587w, /wp-content/uploads/2023/08/22-2-768x634.jpg 768w, /wp-content/uploads/2023/08/22-2-1536x1268.jpg 1536w, /wp-content/uploads/2023/08/22-2-2048x1691.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-56a915b elementor-widget elementor-widget-image" data-id="56a915b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1000" height="600" src="/wp-content/uploads/2023/08/Фото_-Бойцовский-клуб-_-Кадр-из-фильма-Бойцовский-клуб-1999-3723102.jpg" class="attachment-large size-large wp-image-2115" alt="" srcset="/wp-content/uploads/2023/08/Фото_-Бойцовский-клуб-_-Кадр-из-фильма-Бойцовский-клуб-1999-3723102.jpg 1000w, /wp-content/uploads/2023/08/Фото_-Бойцовский-клуб-_-Кадр-из-фильма-Бойцовский-клуб-1999-3723102-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7312285 elementor-widget elementor-widget-image" data-id="7312285" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1068" src="/wp-content/uploads/2023/08/33-2-scaled.jpg" class="attachment-large size-large wp-image-1822" alt="" srcset="/wp-content/uploads/2023/08/33-2-scaled.jpg 2560w, /wp-content/uploads/2023/08/33-2-1587x1314.jpg 1587w, /wp-content/uploads/2023/08/33-2-768x636.jpg 768w, /wp-content/uploads/2023/08/33-2-1536x1272.jpg 1536w, /wp-content/uploads/2023/08/33-2-2048x1695.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1a3c5db elementor-widget elementor-widget-image" data-id="1a3c5db" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="860" src="/wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-scaled.jpg" class="attachment-large size-large wp-image-2116" alt="" srcset="/wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-1587x1058.jpg 1587w, /wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-768x512.jpg 768w, /wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-1536x1024.jpg 1536w, /wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-2048x1365.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4be8990 elementor-widget elementor-widget-image" data-id="4be8990" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="927" src="/wp-content/uploads/2023/08/44-2-scaled.jpg" class="attachment-large size-large wp-image-1823" alt="" srcset="/wp-content/uploads/2023/08/44-2-scaled.jpg 2560w, /wp-content/uploads/2023/08/44-2-1587x1140.jpg 1587w, /wp-content/uploads/2023/08/44-2-768x552.jpg 768w, /wp-content/uploads/2023/08/44-2-1536x1104.jpg 1536w, /wp-content/uploads/2023/08/44-2-2048x1472.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-901ae0f elementor-widget elementor-widget-image" data-id="901ae0f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="450" src="/wp-content/uploads/2023/08/download-1-1.gif" class="attachment-large size-large wp-image-2118" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-87a55f0 elementor-widget elementor-widget-image" data-id="87a55f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="916" src="/wp-content/uploads/2023/08/55-2-scaled.jpg" class="attachment-large size-large wp-image-1824" alt="" srcset="/wp-content/uploads/2023/08/55-2-scaled.jpg 2560w, /wp-content/uploads/2023/08/55-2-1587x1126.jpg 1587w, /wp-content/uploads/2023/08/55-2-768x545.jpg 768w, /wp-content/uploads/2023/08/55-2-1536x1090.jpg 1536w, /wp-content/uploads/2023/08/55-2-2048x1453.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-35385ad elementor-widget elementor-widget-image" data-id="35385ad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1280" height="720" src="/wp-content/uploads/2023/08/2533528171.jpg" class="attachment-large size-large wp-image-2119" alt="" srcset="/wp-content/uploads/2023/08/2533528171.jpg 1280w, /wp-content/uploads/2023/08/2533528171-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-35d4e56 elementor-widget elementor-widget-image" data-id="35d4e56" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="924" src="/wp-content/uploads/2023/08/66-1-scaled.jpg" class="attachment-large size-large wp-image-1825" alt="" srcset="/wp-content/uploads/2023/08/66-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/66-1-1587x1137.jpg 1587w, /wp-content/uploads/2023/08/66-1-768x550.jpg 768w, /wp-content/uploads/2023/08/66-1-1536x1100.jpg 1536w, /wp-content/uploads/2023/08/66-1-2048x1467.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-06533ed elementor-widget elementor-widget-video" data-id="06533ed" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 02-08-2023 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2023/08/Snaptik.app_7257525741535939841.mp4" loop="" controls="" preload="metadata"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dfa8f38 elementor-widget elementor-widget-image" data-id="dfa8f38" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2036" src="/wp-content/uploads/2023/08/77-2-scaled.jpg" class="attachment-large size-large wp-image-1826" alt="" srcset="/wp-content/uploads/2023/08/77-2-scaled.jpg 1622w, /wp-content/uploads/2023/08/77-2-1587x2505.jpg 1587w, /wp-content/uploads/2023/08/77-2-768x1212.jpg 768w, /wp-content/uploads/2023/08/77-2-973x1536.jpg 973w, /wp-content/uploads/2023/08/77-2-1298x2048.jpg 1298w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1818" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1818" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/unraveling-the-depths-of-fight-club-deciphering-its-profound-meanings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2023/08/Snaptik.app_7257525741535939841.mp4" length="4474966" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Blade Runner 2049: Do Memories Make Us Human?</title>
+		<link>/blade-runner-2049/</link>
+					<comments>/blade-runner-2049/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 11:50:30 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/?p=1786</guid>
+
+					<description><![CDATA[/wp-content/uploads/2023/08/Untitled-design-1.mp4]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1786" class="elementor elementor-1786">
+							<div class="elementor-element elementor-element-92deb74 e-flex e-con-boxed e-con" data-id="92deb74" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4767348 elementor-widget elementor-widget-shortcode" data-id="4767348" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><iframe loading="lazy" allow="autoplay" width="100%" height="200" src="https://www.iheart.com/podcast/256-shoulder-of-orion-the-blad-31123182/episode/141-anatomy-of-a-scene-116722749/?position=4&embed=true" frameborder="0"></iframe></div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6e32d2d e-flex e-con-boxed e-con" data-id="6e32d2d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ffbf1fd elementor-widget elementor-widget-image" data-id="ffbf1fd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1486" src="/wp-content/uploads/2023/08/11-1-scaled.jpg" class="attachment-large size-large wp-image-1808" alt="" srcset="/wp-content/uploads/2023/08/11-1-scaled.jpg 2222w, /wp-content/uploads/2023/08/11-1-1587x1828.jpg 1587w, /wp-content/uploads/2023/08/11-1-768x885.jpg 768w, /wp-content/uploads/2023/08/11-1-1333x1536.jpg 1333w, /wp-content/uploads/2023/08/11-1-1778x2048.jpg 1778w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4f4c3ca elementor-widget elementor-widget-image" data-id="4f4c3ca" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="726" src="/wp-content/uploads/2023/08/20567135-scaled.jpg" class="attachment-large size-large wp-image-2035" alt="" srcset="/wp-content/uploads/2023/08/20567135-scaled.jpg 2560w, /wp-content/uploads/2023/08/20567135-1587x893.jpg 1587w, /wp-content/uploads/2023/08/20567135-768x432.jpg 768w, /wp-content/uploads/2023/08/20567135-1536x864.jpg 1536w, /wp-content/uploads/2023/08/20567135-2048x1152.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6c059f4 elementor-widget elementor-widget-image" data-id="6c059f4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1054" src="/wp-content/uploads/2023/08/22-1-scaled.jpg" class="attachment-large size-large wp-image-1810" alt="" srcset="/wp-content/uploads/2023/08/22-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/22-1-1587x1296.jpg 1587w, /wp-content/uploads/2023/08/22-1-768x627.jpg 768w, /wp-content/uploads/2023/08/22-1-1536x1255.jpg 1536w, /wp-content/uploads/2023/08/22-1-2048x1673.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-20b9db7 elementor-widget elementor-widget-image" data-id="20b9db7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1152" height="648" src="/wp-content/uploads/2023/08/Untitled-design-3.gif" class="attachment-full size-full wp-image-2045" alt="" srcset="/wp-content/uploads/2023/08/Untitled-design-3.gif 1152w, /wp-content/uploads/2023/08/Untitled-design-3-768x432.gif 768w" sizes="(max-width: 1152px) 100vw, 1152px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-dae74a8 elementor-widget elementor-widget-image" data-id="dae74a8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="829" src="/wp-content/uploads/2023/08/33-1-scaled.jpg" class="attachment-large size-large wp-image-1811" alt="" srcset="/wp-content/uploads/2023/08/33-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/33-1-1587x1020.jpg 1587w, /wp-content/uploads/2023/08/33-1-768x493.jpg 768w, /wp-content/uploads/2023/08/33-1-1536x987.jpg 1536w, /wp-content/uploads/2023/08/33-1-2048x1316.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-144e679 elementor-widget elementor-widget-image" data-id="144e679" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="210" src="/wp-content/uploads/2023/08/205407.gif" class="attachment-large size-large wp-image-2041" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3391ed6 elementor-widget elementor-widget-image" data-id="3391ed6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="894" src="/wp-content/uploads/2023/08/44-1-scaled.jpg" class="attachment-large size-large wp-image-1812" alt="" srcset="/wp-content/uploads/2023/08/44-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/44-1-1587x1100.jpg 1587w, /wp-content/uploads/2023/08/44-1-768x532.jpg 768w, /wp-content/uploads/2023/08/44-1-1536x1065.jpg 1536w, /wp-content/uploads/2023/08/44-1-2048x1420.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a63e340 elementor-widget elementor-widget-image" data-id="a63e340" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="695" src="/wp-content/uploads/2023/08/blade-runner-2049-officer-k-factory.jpg" class="attachment-large size-large wp-image-2038" alt="" srcset="/wp-content/uploads/2023/08/blade-runner-2049-officer-k-factory.jpg 1920w, /wp-content/uploads/2023/08/blade-runner-2049-officer-k-factory-1587x855.jpg 1587w, /wp-content/uploads/2023/08/blade-runner-2049-officer-k-factory-768x414.jpg 768w, /wp-content/uploads/2023/08/blade-runner-2049-officer-k-factory-1536x828.jpg 1536w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e3a579f elementor-widget elementor-widget-image" data-id="e3a579f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="955" src="/wp-content/uploads/2023/08/55-1-scaled.jpg" class="attachment-large size-large wp-image-1813" alt="" srcset="/wp-content/uploads/2023/08/55-1-scaled.jpg 2560w, /wp-content/uploads/2023/08/55-1-1587x1175.jpg 1587w, /wp-content/uploads/2023/08/55-1-768x568.jpg 768w, /wp-content/uploads/2023/08/55-1-1536x1137.jpg 1536w, /wp-content/uploads/2023/08/55-1-2048x1516.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-9e1743f elementor-widget elementor-widget-video" data-id="9e1743f" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="/wp-content/uploads/2023/08/Untitled-design-1.mp4" loop="" controls="" preload="metadata"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-05883a7 elementor-widget elementor-widget-image" data-id="05883a7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1684" src="/wp-content/uploads/2023/08/77-1-scaled.jpg" class="attachment-large size-large wp-image-1814" alt="" srcset="/wp-content/uploads/2023/08/77-1-scaled.jpg 1961w, /wp-content/uploads/2023/08/77-1-1587x2071.jpg 1587w, /wp-content/uploads/2023/08/77-1-768x1002.jpg 768w, /wp-content/uploads/2023/08/77-1-1177x1536.jpg 1177w, /wp-content/uploads/2023/08/77-1-1569x2048.jpg 1569w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1786" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1786" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/blade-runner-2049/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2023/08/Untitled-design-1.mp4" length="5292532" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Exploring the Profound Philosophy of &#8220;No Country for Old Men&#8221;</title>
+		<link>/no-country-for-old-men/</link>
+					<comments>/no-country-for-old-men/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 11:32:35 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/?p=1770</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1770" class="elementor elementor-1770">
+							<div class="elementor-element elementor-element-5741ed2 e-flex e-con-boxed e-con" data-id="5741ed2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-346b368 elementor-widget elementor-widget-image" data-id="346b368" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1464" src="/wp-content/uploads/2023/08/11-scaled.jpg" class="attachment-large size-large wp-image-1776" alt="" srcset="/wp-content/uploads/2023/08/11-scaled.jpg 2255w, /wp-content/uploads/2023/08/11-1587x1801.jpg 1587w, /wp-content/uploads/2023/08/11-768x872.jpg 768w, /wp-content/uploads/2023/08/11-1353x1536.jpg 1353w, /wp-content/uploads/2023/08/11-1804x2048.jpg 1804w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-48caf6b elementor-widget elementor-widget-image" data-id="48caf6b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="726" src="/wp-content/uploads/2023/08/no-country-for-old-men-5.jpg" class="attachment-large size-large wp-image-2102" alt="" srcset="/wp-content/uploads/2023/08/no-country-for-old-men-5.jpg 1920w, /wp-content/uploads/2023/08/no-country-for-old-men-5-1587x893.jpg 1587w, /wp-content/uploads/2023/08/no-country-for-old-men-5-768x432.jpg 768w, /wp-content/uploads/2023/08/no-country-for-old-men-5-1536x864.jpg 1536w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b93b885 elementor-widget elementor-widget-image" data-id="b93b885" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1142" src="/wp-content/uploads/2023/08/22-scaled.jpg" class="attachment-large size-large wp-image-1777" alt="" srcset="/wp-content/uploads/2023/08/22-scaled.jpg 2560w, /wp-content/uploads/2023/08/22-1587x1405.jpg 1587w, /wp-content/uploads/2023/08/22-768x680.jpg 768w, /wp-content/uploads/2023/08/22-1536x1360.jpg 1536w, /wp-content/uploads/2023/08/22-2048x1813.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-d378148 elementor-widget elementor-widget-image" data-id="d378148" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="310" src="/wp-content/uploads/2023/08/tumblr_pul4kiKWGS1rqsnxoo3_540.gif" class="attachment-large size-large wp-image-2104" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6627b3c elementor-widget elementor-widget-image" data-id="6627b3c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1012" src="/wp-content/uploads/2023/08/33-scaled.jpg" class="attachment-large size-large wp-image-1778" alt="" srcset="/wp-content/uploads/2023/08/33-scaled.jpg 2560w, /wp-content/uploads/2023/08/33-1587x1245.jpg 1587w, /wp-content/uploads/2023/08/33-768x603.jpg 768w, /wp-content/uploads/2023/08/33-1536x1205.jpg 1536w, /wp-content/uploads/2023/08/33-2048x1607.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-900e654 elementor-widget elementor-widget-image" data-id="900e654" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="725" src="/wp-content/uploads/2023/08/Movies_Movies_N__006313_.jpg" class="attachment-large size-large wp-image-2105" alt="" srcset="/wp-content/uploads/2023/08/Movies_Movies_N__006313_.jpg 1366w, /wp-content/uploads/2023/08/Movies_Movies_N__006313_-768x432.jpg 768w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-dcca9da elementor-widget elementor-widget-image" data-id="dcca9da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="984" src="/wp-content/uploads/2023/08/44-scaled.jpg" class="attachment-large size-large wp-image-1779" alt="" srcset="/wp-content/uploads/2023/08/44-scaled.jpg 2560w, /wp-content/uploads/2023/08/44-1587x1211.jpg 1587w, /wp-content/uploads/2023/08/44-768x586.jpg 768w, /wp-content/uploads/2023/08/44-1536x1172.jpg 1536w, /wp-content/uploads/2023/08/44-2048x1563.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-69a32d2 elementor-widget elementor-widget-image" data-id="69a32d2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1168" height="496" src="/wp-content/uploads/2023/08/no-country-for-old-men-movie-screenshots6.jpg" class="attachment-large size-large wp-image-2106" alt="" srcset="/wp-content/uploads/2023/08/no-country-for-old-men-movie-screenshots6.jpg 1168w, /wp-content/uploads/2023/08/no-country-for-old-men-movie-screenshots6-768x326.jpg 768w" sizes="(max-width: 1168px) 100vw, 1168px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0367961 elementor-widget elementor-widget-image" data-id="0367961" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="763" src="/wp-content/uploads/2023/08/55-scaled.jpg" class="attachment-large size-large wp-image-1780" alt="" srcset="/wp-content/uploads/2023/08/55-scaled.jpg 2560w, /wp-content/uploads/2023/08/55-1587x939.jpg 1587w, /wp-content/uploads/2023/08/55-768x454.jpg 768w, /wp-content/uploads/2023/08/55-1536x909.jpg 1536w, /wp-content/uploads/2023/08/55-2048x1212.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c681656 elementor-widget elementor-widget-image" data-id="c681656" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="540" height="310" src="/wp-content/uploads/2023/08/tumblr_pul4kiKWGS1rqsnxoo9_540.gif" class="attachment-large size-large wp-image-2107" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a36d083 elementor-widget elementor-widget-image" data-id="a36d083" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="771" src="/wp-content/uploads/2023/08/66-scaled.jpg" class="attachment-large size-large wp-image-1781" alt="" srcset="/wp-content/uploads/2023/08/66-scaled.jpg 2560w, /wp-content/uploads/2023/08/66-1587x949.jpg 1587w, /wp-content/uploads/2023/08/66-768x459.jpg 768w, /wp-content/uploads/2023/08/66-1536x919.jpg 1536w, /wp-content/uploads/2023/08/66-2048x1225.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4e89c70 elementor-widget elementor-widget-image" data-id="4e89c70" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="400" height="538" src="/wp-content/uploads/2023/08/tumblr_mbov1d14ZE1qbzahao1_400.gif" class="attachment-large size-large wp-image-2108" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c35e2aa elementor-widget elementor-widget-image" data-id="c35e2aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1856" src="/wp-content/uploads/2023/08/77-scaled.jpg" class="attachment-large size-large wp-image-1782" alt="" srcset="/wp-content/uploads/2023/08/77-scaled.jpg 1779w, /wp-content/uploads/2023/08/77-1587x2284.jpg 1587w, /wp-content/uploads/2023/08/77-768x1105.jpg 768w, /wp-content/uploads/2023/08/77-1067x1536.jpg 1067w, /wp-content/uploads/2023/08/77-1423x2048.jpg 1423w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1770" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1770" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/no-country-for-old-men/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prisoners the Movie: Symbolism Done Right</title>
+		<link>/prisoners/</link>
+					<comments>/prisoners/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 19:14:11 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/?p=1749</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1749" class="elementor elementor-1749">
+							<div class="elementor-element elementor-element-ffb59d3 e-flex e-con-boxed e-con" data-id="ffb59d3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5f8f4a2 elementor-widget elementor-widget-image" data-id="5f8f4a2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1504" src="/wp-content/uploads/2023/08/P1.png" class="attachment-large size-large wp-image-1752" alt="" srcset="/wp-content/uploads/2023/08/P1.png 3375w, /wp-content/uploads/2023/08/P1-1587x1850.png 1587w, /wp-content/uploads/2023/08/P1-768x895.png 768w, /wp-content/uploads/2023/08/P1-1318x1536.png 1318w, /wp-content/uploads/2023/08/P1-1757x2048.png 1757w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-873eb2d elementor-widget elementor-widget-image" data-id="873eb2d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="680" src="/wp-content/uploads/2023/08/New-Project-9.png" class="attachment-large size-large wp-image-1759" alt="" srcset="/wp-content/uploads/2023/08/New-Project-9.png 4096w, /wp-content/uploads/2023/08/New-Project-9-1587x837.png 1587w, /wp-content/uploads/2023/08/New-Project-9-768x405.png 768w, /wp-content/uploads/2023/08/New-Project-9-1536x810.png 1536w, /wp-content/uploads/2023/08/New-Project-9-2048x1080.png 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5298ecf elementor-widget elementor-widget-image" data-id="5298ecf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1614" src="/wp-content/uploads/2023/08/P2.png" class="attachment-large size-large wp-image-1753" alt="" srcset="/wp-content/uploads/2023/08/P2.png 3374w, /wp-content/uploads/2023/08/P2-1587x1985.png 1587w, /wp-content/uploads/2023/08/P2-768x961.png 768w, /wp-content/uploads/2023/08/P2-1228x1536.png 1228w, /wp-content/uploads/2023/08/P2-1637x2048.png 1637w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-d7717dd elementor-widget elementor-widget-image" data-id="d7717dd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1417" src="/wp-content/uploads/2023/08/P3.png" class="attachment-large size-large wp-image-1754" alt="" srcset="/wp-content/uploads/2023/08/P3.png 3374w, /wp-content/uploads/2023/08/P3-1587x1744.png 1587w, /wp-content/uploads/2023/08/P3-768x844.png 768w, /wp-content/uploads/2023/08/P3-1398x1536.png 1398w, /wp-content/uploads/2023/08/P3-1864x2048.png 1864w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-284e1f0 elementor-widget elementor-widget-image" data-id="284e1f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="680" src="/wp-content/uploads/2023/08/snakes.png" class="attachment-large size-large wp-image-1760" alt="" srcset="/wp-content/uploads/2023/08/snakes.png 4096w, /wp-content/uploads/2023/08/snakes-1587x837.png 1587w, /wp-content/uploads/2023/08/snakes-768x405.png 768w, /wp-content/uploads/2023/08/snakes-1536x810.png 1536w, /wp-content/uploads/2023/08/snakes-2048x1080.png 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3b9f531 elementor-widget elementor-widget-image" data-id="3b9f531" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1454" src="/wp-content/uploads/2023/08/P4.png" class="attachment-large size-large wp-image-1755" alt="" srcset="/wp-content/uploads/2023/08/P4.png 3375w, /wp-content/uploads/2023/08/P4-1587x1789.png 1587w, /wp-content/uploads/2023/08/P4-768x866.png 768w, /wp-content/uploads/2023/08/P4-1362x1536.png 1362w, /wp-content/uploads/2023/08/P4-1817x2048.png 1817w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-02213ba elementor-widget elementor-widget-image" data-id="02213ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1630" src="/wp-content/uploads/2023/08/P5.png" class="attachment-large size-large wp-image-1756" alt="" srcset="/wp-content/uploads/2023/08/P5.png 3375w, /wp-content/uploads/2023/08/P5-1587x2005.png 1587w, /wp-content/uploads/2023/08/P5-768x970.png 768w, /wp-content/uploads/2023/08/P5-1216x1536.png 1216w, /wp-content/uploads/2023/08/P5-1621x2048.png 1621w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3018abe elementor-widget elementor-widget-image" data-id="3018abe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1438" src="/wp-content/uploads/2023/08/P6.png" class="attachment-large size-large wp-image-1757" alt="" srcset="/wp-content/uploads/2023/08/P6.png 3374w, /wp-content/uploads/2023/08/P6-1587x1769.png 1587w, /wp-content/uploads/2023/08/P6-768x856.png 768w, /wp-content/uploads/2023/08/P6-1378x1536.png 1378w, /wp-content/uploads/2023/08/P6-1838x2048.png 1838w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f9a7387 elementor-widget elementor-widget-image" data-id="f9a7387" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="723" src="/wp-content/uploads/2023/08/New-Project-10.png" class="attachment-large size-large wp-image-1761" alt="" srcset="/wp-content/uploads/2023/08/New-Project-10.png 3853w, /wp-content/uploads/2023/08/New-Project-10-1587x890.png 1587w, /wp-content/uploads/2023/08/New-Project-10-768x431.png 768w, /wp-content/uploads/2023/08/New-Project-10-1536x861.png 1536w, /wp-content/uploads/2023/08/New-Project-10-2048x1148.png 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a58c5a1 elementor-widget elementor-widget-image" data-id="a58c5a1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1825" src="/wp-content/uploads/2023/08/P7.png" class="attachment-large size-large wp-image-1758" alt="" srcset="/wp-content/uploads/2023/08/P7.png 3374w, /wp-content/uploads/2023/08/P7-1587x2246.png 1587w, /wp-content/uploads/2023/08/P7-768x1087.png 768w, /wp-content/uploads/2023/08/P7-1086x1536.png 1086w, /wp-content/uploads/2023/08/P7-1447x2048.png 1447w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1749" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1749" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/prisoners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Wonder Egg Priority&#8217;: Unveiling the Unspoken Realities of Trauma and Healing</title>
+		<link>/wonder-egg-priority/</link>
+					<comments>/wonder-egg-priority/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 14:43:43 +0000</pubDate>
+				<category><![CDATA[Anime]]></category>
+		<guid isPermaLink="false">/?p=1729</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1729" class="elementor elementor-1729">
+							<div class="elementor-element elementor-element-4b5950f e-flex e-con-boxed e-con" data-id="4b5950f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-31c7ade elementor-widget elementor-widget-image" data-id="31c7ade" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1386" src="/wp-content/uploads/2023/08/11-4-scaled.jpg" class="attachment-large size-large wp-image-1864" alt="" srcset="/wp-content/uploads/2023/08/11-4-scaled.jpg 2383w, /wp-content/uploads/2023/08/11-4-1587x1705.jpg 1587w, /wp-content/uploads/2023/08/11-4-768x825.jpg 768w, /wp-content/uploads/2023/08/11-4-1430x1536.jpg 1430w, /wp-content/uploads/2023/08/11-4-1907x2048.jpg 1907w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-eea638f elementor-widget elementor-widget-image" data-id="eea638f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="899" height="506" src="/wp-content/uploads/2023/08/W6.png" class="attachment-large size-large wp-image-1731" alt="" srcset="/wp-content/uploads/2023/08/W6.png 899w, /wp-content/uploads/2023/08/W6-768x432.png 768w" sizes="(max-width: 899px) 100vw, 899px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-95f298f elementor-widget elementor-widget-image" data-id="95f298f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1012" src="/wp-content/uploads/2023/08/22-5-scaled.jpg" class="attachment-large size-large wp-image-1866" alt="" srcset="/wp-content/uploads/2023/08/22-5-scaled.jpg 2560w, /wp-content/uploads/2023/08/22-5-1587x1245.jpg 1587w, /wp-content/uploads/2023/08/22-5-768x603.jpg 768w, /wp-content/uploads/2023/08/22-5-1536x1205.jpg 1536w, /wp-content/uploads/2023/08/22-5-2048x1607.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b45b866 elementor-widget elementor-widget-image" data-id="b45b866" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="717" src="/wp-content/uploads/2023/08/New-Project-5-1.png" class="attachment-large size-large wp-image-1739" alt="" srcset="/wp-content/uploads/2023/08/New-Project-5-1.png 3886w, /wp-content/uploads/2023/08/New-Project-5-1-1587x882.png 1587w, /wp-content/uploads/2023/08/New-Project-5-1-768x427.png 768w, /wp-content/uploads/2023/08/New-Project-5-1-1536x854.png 1536w, /wp-content/uploads/2023/08/New-Project-5-1-2048x1138.png 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ef2b3f1 elementor-widget elementor-widget-image" data-id="ef2b3f1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="784" src="/wp-content/uploads/2023/08/22.5-scaled.jpg" class="attachment-large size-large wp-image-1865" alt="" srcset="/wp-content/uploads/2023/08/22.5-scaled.jpg 2560w, /wp-content/uploads/2023/08/22.5-1587x964.jpg 1587w, /wp-content/uploads/2023/08/22.5-768x466.jpg 768w, /wp-content/uploads/2023/08/22.5-1536x933.jpg 1536w, /wp-content/uploads/2023/08/22.5-2048x1244.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-17c738c elementor-widget elementor-widget-image" data-id="17c738c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="726" src="/wp-content/uploads/2023/08/Untitled-design-1.gif" class="attachment-large size-large wp-image-1740" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-42602c8 elementor-widget elementor-widget-image" data-id="42602c8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1015" src="/wp-content/uploads/2023/08/33-6-scaled.jpg" class="attachment-large size-large wp-image-1868" alt="" srcset="/wp-content/uploads/2023/08/33-6-scaled.jpg 2560w, /wp-content/uploads/2023/08/33-6-1587x1249.jpg 1587w, /wp-content/uploads/2023/08/33-6-768x605.jpg 768w, /wp-content/uploads/2023/08/33-6-1536x1209.jpg 1536w, /wp-content/uploads/2023/08/33-6-2048x1612.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-770147e elementor-widget elementor-widget-image" data-id="770147e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="821" src="/wp-content/uploads/2023/08/33.5-scaled.jpg" class="attachment-large size-large wp-image-1867" alt="" srcset="/wp-content/uploads/2023/08/33.5-scaled.jpg 2560w, /wp-content/uploads/2023/08/33.5-1587x1010.jpg 1587w, /wp-content/uploads/2023/08/33.5-768x489.jpg 768w, /wp-content/uploads/2023/08/33.5-1536x977.jpg 1536w, /wp-content/uploads/2023/08/33.5-2048x1303.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a91aca1 elementor-widget elementor-widget-image" data-id="a91aca1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="722" src="/wp-content/uploads/2023/08/New-Project-6.png" class="attachment-large size-large wp-image-1742" alt="" srcset="/wp-content/uploads/2023/08/New-Project-6.png 3859w, /wp-content/uploads/2023/08/New-Project-6-1587x888.png 1587w, /wp-content/uploads/2023/08/New-Project-6-768x430.png 768w, /wp-content/uploads/2023/08/New-Project-6-1536x860.png 1536w, /wp-content/uploads/2023/08/New-Project-6-2048x1146.png 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b0efd9f elementor-widget elementor-widget-image" data-id="b0efd9f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1540" src="/wp-content/uploads/2023/08/44-5-scaled.jpg" class="attachment-large size-large wp-image-1869" alt="" srcset="/wp-content/uploads/2023/08/44-5-scaled.jpg 2144w, /wp-content/uploads/2023/08/44-5-1587x1895.jpg 1587w, /wp-content/uploads/2023/08/44-5-768x917.jpg 768w, /wp-content/uploads/2023/08/44-5-1286x1536.jpg 1286w, /wp-content/uploads/2023/08/44-5-1715x2048.jpg 1715w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-53b7d43 elementor-widget elementor-widget-image" data-id="53b7d43" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2009" src="/wp-content/uploads/2023/08/New-Project-4.png" class="attachment-large size-large wp-image-1741" alt="" srcset="/wp-content/uploads/2023/08/New-Project-4.png 1387w, /wp-content/uploads/2023/08/New-Project-4-768x1196.png 768w, /wp-content/uploads/2023/08/New-Project-4-986x1536.png 986w, /wp-content/uploads/2023/08/New-Project-4-1315x2048.png 1315w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-100e148 elementor-widget elementor-widget-image" data-id="100e148" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1553" src="/wp-content/uploads/2023/08/55-4-scaled.jpg" class="attachment-large size-large wp-image-1870" alt="" srcset="/wp-content/uploads/2023/08/55-4-scaled.jpg 2126w, /wp-content/uploads/2023/08/55-4-1587x1911.jpg 1587w, /wp-content/uploads/2023/08/55-4-768x925.jpg 768w, /wp-content/uploads/2023/08/55-4-1276x1536.jpg 1276w, /wp-content/uploads/2023/08/55-4-1701x2048.jpg 1701w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1729" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1729" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/wonder-egg-priority/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;I Have No Enemies&#8221;: Finding Peace and Personal Growth</title>
+		<link>/i-have-no-enemies/</link>
+					<comments>/i-have-no-enemies/#comments</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 12:26:49 +0000</pubDate>
+				<category><![CDATA[Anime]]></category>
+		<guid isPermaLink="false">/?p=1669</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1669" class="elementor elementor-1669">
+							<div class="elementor-element elementor-element-fa8a1a4 e-flex e-con-boxed e-con" data-id="fa8a1a4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-030ea6e elementor-widget elementor-widget-video" data-id="030ea6e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/-Djq3QihTyA?si=Xm5CGclsJ2Ha-5mk&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-994c1b5 elementor-widget elementor-widget-image" data-id="994c1b5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2293" src="/wp-content/uploads/2023/08/1-3-scaled.jpg" class="attachment-large size-large wp-image-1855" alt="" srcset="/wp-content/uploads/2023/08/1-3-scaled.jpg 1440w, /wp-content/uploads/2023/08/1-3-1587x2821.jpg 1587w, /wp-content/uploads/2023/08/1-3-768x1365.jpg 768w, /wp-content/uploads/2023/08/1-3-864x1536.jpg 864w, /wp-content/uploads/2023/08/1-3-1152x2048.jpg 1152w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a6c8ee6 elementor-widget elementor-widget-image" data-id="a6c8ee6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1924" src="/wp-content/uploads/2023/08/22-4-scaled.jpg" class="attachment-large size-large wp-image-1856" alt="" srcset="/wp-content/uploads/2023/08/22-4-scaled.jpg 1716w, /wp-content/uploads/2023/08/22-4-1587x2368.jpg 1587w, /wp-content/uploads/2023/08/22-4-768x1146.jpg 768w, /wp-content/uploads/2023/08/22-4-1029x1536.jpg 1029w, /wp-content/uploads/2023/08/22-4-1373x2048.jpg 1373w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7dc96a4 elementor-widget elementor-widget-image" data-id="7dc96a4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1386" src="/wp-content/uploads/2023/08/33-5-scaled.jpg" class="attachment-large size-large wp-image-1858" alt="" srcset="/wp-content/uploads/2023/08/33-5-scaled.jpg 2383w, /wp-content/uploads/2023/08/33-5-1587x1705.jpg 1587w, /wp-content/uploads/2023/08/33-5-768x825.jpg 768w, /wp-content/uploads/2023/08/33-5-1430x1536.jpg 1430w, /wp-content/uploads/2023/08/33-5-1907x2048.jpg 1907w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-254fef6 elementor-widget elementor-widget-image" data-id="254fef6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1280" height="1792" src="/wp-content/uploads/2023/08/V3.png" class="attachment-large size-large wp-image-1677" alt="" srcset="/wp-content/uploads/2023/08/V3.png 1280w, /wp-content/uploads/2023/08/V3-768x1075.png 768w, /wp-content/uploads/2023/08/V3-1097x1536.png 1097w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5320205 elementor-widget elementor-widget-image" data-id="5320205" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1582" src="/wp-content/uploads/2023/08/44-4-scaled.jpg" class="attachment-large size-large wp-image-1859" alt="" srcset="/wp-content/uploads/2023/08/44-4-scaled.jpg 2087w, /wp-content/uploads/2023/08/44-4-1587x1946.jpg 1587w, /wp-content/uploads/2023/08/44-4-768x942.jpg 768w, /wp-content/uploads/2023/08/44-4-1252x1536.jpg 1252w, /wp-content/uploads/2023/08/44-4-1670x2048.jpg 1670w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4893c5b elementor-widget elementor-widget-image" data-id="4893c5b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1555" src="/wp-content/uploads/2023/08/55-3-scaled.jpg" class="attachment-large size-large wp-image-1860" alt="" srcset="/wp-content/uploads/2023/08/55-3-scaled.jpg 2124w, /wp-content/uploads/2023/08/55-3-1587x1913.jpg 1587w, /wp-content/uploads/2023/08/55-3-768x926.jpg 768w, /wp-content/uploads/2023/08/55-3-1274x1536.jpg 1274w, /wp-content/uploads/2023/08/55-3-1699x2048.jpg 1699w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1669" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1669" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/i-have-no-enemies/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Death Note: The Elusive Pursuit of Justice</title>
+		<link>/death-note/</link>
+					<comments>/death-note/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 12:40:53 +0000</pubDate>
+				<category><![CDATA[Anime]]></category>
+		<guid isPermaLink="false">/?p=1612</guid>
+
+					<description><![CDATA[Other Topics: All Anime Movies Thoughts Video On Suicide Unraveling the Depths of Fight Club: Deciphering its Profound&#8230; Blade Runner 2049: Do Memories Make Us Human? Exploring the Profound Philosophy of &#8220;No Country for Old&#8230; Prisoners the Movie: Symbolism Done Right &#8216;Wonder Egg Priority&#8217;: Unveiling the Unspoken Realities of Trauma&#8230; &#8220;I Have No Enemies&#8221;: Finding [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1612" class="elementor elementor-1612">
+							<div class="elementor-element elementor-element-06745f9 e-flex e-con-boxed e-con" data-id="06745f9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c273e4b elementor-widget elementor-widget-video" data-id="c273e4b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/QI68giYtnXs?si=GfCxS54PFXiKszYI&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e1c0978 elementor-widget elementor-widget-image" data-id="e1c0978" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2293" src="/wp-content/uploads/2023/08/1-2-scaled.jpg" class="attachment-large size-large wp-image-1834" alt="" srcset="/wp-content/uploads/2023/08/1-2-scaled.jpg 1440w, /wp-content/uploads/2023/08/1-2-1587x2821.jpg 1587w, /wp-content/uploads/2023/08/1-2-768x1365.jpg 768w, /wp-content/uploads/2023/08/1-2-864x1536.jpg 864w, /wp-content/uploads/2023/08/1-2-1152x2048.jpg 1152w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5e17687 elementor-widget elementor-widget-image" data-id="5e17687" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2293" src="/wp-content/uploads/2023/08/2-1-scaled.jpg" class="attachment-large size-large wp-image-1835" alt="" srcset="/wp-content/uploads/2023/08/2-1-scaled.jpg 1440w, /wp-content/uploads/2023/08/2-1-1587x2821.jpg 1587w, /wp-content/uploads/2023/08/2-1-768x1365.jpg 768w, /wp-content/uploads/2023/08/2-1-864x1536.jpg 864w, /wp-content/uploads/2023/08/2-1-1152x2048.jpg 1152w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c4829f3 elementor-widget elementor-widget-image" data-id="c4829f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1962" src="/wp-content/uploads/2023/08/33-3-scaled.jpg" class="attachment-large size-large wp-image-1837" alt="" srcset="/wp-content/uploads/2023/08/33-3-scaled.jpg 1683w, /wp-content/uploads/2023/08/33-3-1587x2415.jpg 1587w, /wp-content/uploads/2023/08/33-3-768x1169.jpg 768w, /wp-content/uploads/2023/08/33-3-1010x1536.jpg 1010w, /wp-content/uploads/2023/08/33-3-1346x2048.jpg 1346w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-ddc5fda elementor-widget elementor-widget-image" data-id="ddc5fda" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1630" src="/wp-content/uploads/2023/08/44-3-scaled.jpg" class="attachment-large size-large wp-image-1838" alt="" srcset="/wp-content/uploads/2023/08/44-3-scaled.jpg 2026w, /wp-content/uploads/2023/08/44-3-1587x2005.jpg 1587w, /wp-content/uploads/2023/08/44-3-768x970.jpg 768w, /wp-content/uploads/2023/08/44-3-1216x1536.jpg 1216w, /wp-content/uploads/2023/08/44-3-1621x2048.jpg 1621w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b8355db elementor-widget elementor-widget-image" data-id="b8355db" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="2293" src="/wp-content/uploads/2023/08/5-scaled.jpg" class="attachment-large size-large wp-image-1836" alt="" srcset="/wp-content/uploads/2023/08/5-scaled.jpg 1440w, /wp-content/uploads/2023/08/5-1587x2821.jpg 1587w, /wp-content/uploads/2023/08/5-768x1365.jpg 768w, /wp-content/uploads/2023/08/5-864x1536.jpg 864w, /wp-content/uploads/2023/08/5-1152x2048.jpg 1152w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c2cc014 elementor-widget elementor-widget-image" data-id="c2cc014" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="624" height="1024" src="/wp-content/uploads/2023/08/DD4-624x1024.png" class="attachment-large size-large wp-image-1584" alt="" srcset="/wp-content/uploads/2023/08/DD4-624x1024.png 624w, /wp-content/uploads/2023/08/DD4-183x300.png 183w, /wp-content/uploads/2023/08/DD4-768x1261.png 768w, /wp-content/uploads/2023/08/DD4-936x1536.png 936w, /wp-content/uploads/2023/08/DD4-1248x2048.png 1248w, /wp-content/uploads/2023/08/DD4.png 1316w" sizes="(max-width: 624px) 100vw, 624px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-dd26816 elementor-widget elementor-widget-image" data-id="dd26816" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="804" src="/wp-content/uploads/2023/08/66-2-scaled.jpg" class="attachment-large size-large wp-image-1839" alt="" srcset="/wp-content/uploads/2023/08/66-2-scaled.jpg 2560w, /wp-content/uploads/2023/08/66-2-1587x989.jpg 1587w, /wp-content/uploads/2023/08/66-2-768x479.jpg 768w, /wp-content/uploads/2023/08/66-2-1536x958.jpg 1536w, /wp-content/uploads/2023/08/66-2-2048x1277.jpg 2048w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6441746 e-flex e-con-boxed e-con" data-id="6441746" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c678587 elementor-widget elementor-widget-pafe-posts-list" data-id="c678587" data-element_type="widget" data-widget_type="pafe-posts-list.default">
+				<div class="elementor-widget-container">
+			 
+			<div class="pafe-posts-list" data-pafe-posts-list data-pafe-posts-list-option='{"taxonomy":"category","post_type":"post","post_per_pages":10,"author":"","date":"yes","excerpt":"","layout_type":"layout_1"}'>
+			 	
+				<div class="pafe-posts-list__filter" >
+					<div class="pafe-posts-list__filter-title">
+						Other Topics: 
+					</div>
+					<div class="pafe-posts-list__filter-list">	
+							
+						<span class="pafe-posts-list__filter-item" data-id="0" data-pafe-posts-list-filter-item>All</span>
+													
+							<span class="pafe-posts-list__filter-item" data-id=1 data-pafe-posts-list-filter-item>Anime</span>
+							
+							<span class="pafe-posts-list__filter-item" data-id=2 data-pafe-posts-list-filter-item>Movies</span>
+							
+							<span class="pafe-posts-list__filter-item" data-id=3 data-pafe-posts-list-filter-item>Thoughts</span>
+							
+							<span class="pafe-posts-list__filter-item" data-id=4 data-pafe-posts-list-filter-item>Video</span>
+											</div>
+				</div> 
+				
+				<div class="pafe-posts-list__post" data-pafe-tab-content-post>
+						<div class="pafe-posts-list-first-show">
+							
+															<div class="pafe-post-list__left">
+									<div class="pafe-card-left">
+																				<div class="pafe-card-left__inner" style="background-image: url('/wp-content/uploads/2023/08/V3.png');">
+																													 		<a class="pafe-card-left__content" href="/i-have-no-enemies/">	
+												<div class="pafe-card-left__title">&#8220;I Have No Enemies&#8221;: Finding Peace and Personal Growth</div>
+												<div class="pafe-card-left__info">
+														
+																										<span class="pafe-card-left__tag" style="padding-left: 10px;">
+														<i class="far fa-clock"></i>  													</span>
+													 
+												</div>	
+											</a>
+											
+										</div>  
+																			</div>	
+								</div>
+								  
+															
+								
+								  
+								 
+								<div class="pafe-post-list__right">
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/on-suicide/" style="background-image: url('/wp-content/uploads/2023/08/30000fps-1.gif');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/on-suicide/"><div class="pafe-card-right__title"> On Suicide</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/unraveling-the-depths-of-fight-club-deciphering-its-profound-meanings/" style="background-image: url('/wp-content/uploads/2023/08/wallpaperflare.com_wallpaper-1-scaled.jpg');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/unraveling-the-depths-of-fight-club-deciphering-its-profound-meanings/"><div class="pafe-card-right__title"> Unraveling the Depths of Fight Club: Deciphering its Profound&hellip;</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/blade-runner-2049/" style="background-image: url('/wp-content/uploads/2023/08/145411-Blade-Runner-cyberpunk-Ryan-Gosling.jpg');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/blade-runner-2049/"><div class="pafe-card-right__title"> Blade Runner 2049: Do Memories Make Us Human?</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/no-country-for-old-men/" style="background-image: url('/wp-content/uploads/2023/08/No-Country-for-Old-Men.jpg');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/no-country-for-old-men/"><div class="pafe-card-right__title"> Exploring the Profound Philosophy of &#8220;No Country for Old&hellip;</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/prisoners/" style="background-image: url('/wp-content/uploads/2023/08/New-Project-10.png');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/prisoners/"><div class="pafe-card-right__title"> Prisoners the Movie: Symbolism Done Right</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/wonder-egg-priority/" style="background-image: url('/wp-content/uploads/2023/08/W6.png');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/wonder-egg-priority/"><div class="pafe-card-right__title"> &#8216;Wonder Egg Priority&#8217;: Unveiling the Unspoken Realities of Trauma&hellip;</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/death-note/" style="background-image: url('/wp-content/uploads/2023/08/D4.png');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/death-note/"><div class="pafe-card-right__title"> Death Note: The Elusive Pursuit of Justice</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+								
+								  
+															
+									<div class="pafe-card-right"> 
+										<div class="pafe-card-right__inner">
+											<a class="pafe-card-right__thumbnail" href="/vagabond/" style="background-image: url('/wp-content/uploads/2023/08/New-Project.png');">
+											</a>
+											<div class="pafe-card-right__content">			
+												<a href="/vagabond/"><div class="pafe-card-right__title"> The Wandering Souls of Vagabond</div></a>
+																							<div class="pafe-card-right__info">
+																									<span class="pafe-card-right__tag">
+														<i class="far fa-clock"></i> 													</span>  
+																								</div>
+											</div>
+										</div>
+									</div> 
+								
+							 
+						</div>
+					</div>
+				</div>	
+			</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1612" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1612" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/death-note/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Wandering Souls of Vagabond</title>
+		<link>/vagabond/</link>
+					<comments>/vagabond/#respond</comments>
+		
+		<dc:creator><![CDATA[mangablog]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 23:05:13 +0000</pubDate>
+				<category><![CDATA[Anime]]></category>
+		<guid isPermaLink="false">/?p=1472</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1472" class="elementor elementor-1472">
+							<div class="elementor-element elementor-element-68634d7 e-flex e-con-boxed e-con" data-id="68634d7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8d3e6a5 elementor-widget elementor-widget-image" data-id="8d3e6a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1960" src="/wp-content/uploads/2023/08/11-3-scaled.jpg" class="attachment-large size-large wp-image-1848" alt="" srcset="/wp-content/uploads/2023/08/11-3-scaled.jpg 1685w, /wp-content/uploads/2023/08/11-3-1587x2411.jpg 1587w, /wp-content/uploads/2023/08/11-3-768x1167.jpg 768w, /wp-content/uploads/2023/08/11-3-1011x1536.jpg 1011w, /wp-content/uploads/2023/08/11-3-1348x2048.jpg 1348w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e7e51de elementor-widget elementor-widget-image" data-id="e7e51de" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1609" src="/wp-content/uploads/2023/08/22-3-scaled.jpg" class="attachment-large size-large wp-image-1849" alt="" srcset="/wp-content/uploads/2023/08/22-3-scaled.jpg 2053w, /wp-content/uploads/2023/08/22-3-1587x1979.jpg 1587w, /wp-content/uploads/2023/08/22-3-768x958.jpg 768w, /wp-content/uploads/2023/08/22-3-1232x1536.jpg 1232w, /wp-content/uploads/2023/08/22-3-1642x2048.jpg 1642w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8137668 elementor-widget elementor-widget-image" data-id="8137668" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" loading="lazy" width="1290" height="1773" src="/wp-content/uploads/2023/08/33-4-scaled.jpg" class="attachment-large size-large wp-image-1850" alt="" srcset="/wp-content/uploads/2023/08/33-4-scaled.jpg 1863w, /wp-content/uploads/2023/08/33-4-1587x2180.jpg 1587w, /wp-content/uploads/2023/08/33-4-768x1055.jpg 768w, /wp-content/uploads/2023/08/33-4-1118x1536.jpg 1118w, /wp-content/uploads/2023/08/33-4-1491x2048.jpg 1491w" sizes="(max-width: 1290px) 100vw, 1290px" />															</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<div class="pld-like-dislike-wrap pld-template-2">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="1472" data-trigger-type="like" data-restriction="no" data-already-liked="0">
+                        <i class="fas fa-heart"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="1472" data-trigger-type="dislike" data-restriction="no" data-already-liked="0">
+                        <i class="fa fa-heartbeat"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap"></span>
+</div></div>]]></content:encoded>
+					
+					<wfw:commentRss>/vagabond/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
